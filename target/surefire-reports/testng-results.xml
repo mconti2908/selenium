@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-05T11:24:41 UYT" name="Surefire suite" finished-at="2021-07-05T11:24:42 UYT" duration-ms="162">
+    <groups>
+    </groups>
+    <test started-at="2021-07-05T11:24:41 UYT" name="Surefire test" finished-at="2021-07-05T11:24:42 UYT" duration-ms="162">
+      <class name="MauroConti.MavenJava.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:MauroConti.MavenJava.SeleniumTest@1445d7f]" started-at="2021-07-05T11:24:42 UYT" name="BrowserAutomation" finished-at="2021-07-05T11:24:42 UYT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="ElementUX()[pri:0, instance:MauroConti.MavenJava.SeleniumTest@1445d7f]" started-at="2021-07-05T11:24:42 UYT" name="ElementUX" finished-at="2021-07-05T11:24:42 UYT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementUX -->
+      </class> <!-- MauroConti.MavenJava.SeleniumTest -->
+      <class name="MauroConti.MavenJava.RESTAPITest">
+        <test-method signature="deletteTwitter()[pri:0, instance:MauroConti.MavenJava.RESTAPITest@80ec1f8]" started-at="2021-07-05T11:24:42 UYT" name="deletteTwitter" finished-at="2021-07-05T11:24:42 UYT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletteTwitter -->
+        <test-method signature="postJira()[pri:0, instance:MauroConti.MavenJava.RESTAPITest@80ec1f8]" started-at="2021-07-05T11:24:42 UYT" name="postJira" finished-at="2021-07-05T11:24:42 UYT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- MauroConti.MavenJava.RESTAPITest -->
+      <class name="MauroConti.MavenJava.AppiumTest">
+        <test-method signature="IOSApp()[pri:0, instance:MauroConti.MavenJava.AppiumTest@7fad8c79]" started-at="2021-07-05T11:24:42 UYT" name="IOSApp" finished-at="2021-07-05T11:24:42 UYT" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApp -->
+        <test-method signature="NativeAppAndroid()[pri:0, instance:MauroConti.MavenJava.AppiumTest@7fad8c79]" started-at="2021-07-05T11:24:42 UYT" name="NativeAppAndroid" finished-at="2021-07-05T11:24:42 UYT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- MauroConti.MavenJava.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
